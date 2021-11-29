@@ -12,4 +12,7 @@ An analysis of comments, titles, and other factors for threads within the subred
 An analysis of housing pricing data.
 
 ### 4. Media Collection
-An inspection and analysis for a collection of over 10000 movies, including finding revenue generating actors, rating by country, and more.
+An inspection and analysis for a collection of media files, including finding revenue generating actors, rating by country, and more.
+
+### 5. Turkey Vaccination
+An inspection and analysis for a for Turkey Vaccination rates, relating to two doses split between cities.
