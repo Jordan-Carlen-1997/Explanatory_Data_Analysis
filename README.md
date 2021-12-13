@@ -16,3 +16,6 @@ An inspection and analysis for a collection of media files, including finding re
 
 ### 5. Turkey Vaccination
 An inspection and analysis for a for Turkey Vaccination rates, relating to two doses split between cities.
+
+### 6. Blockchain Tweets
+An inspection of blockchain tweets, including a focus on account age and trend of NFTs for the year 2021.
