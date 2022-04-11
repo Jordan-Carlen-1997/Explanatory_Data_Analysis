@@ -19,3 +19,7 @@ An inspection and analysis for a for Turkey Vaccination rates, relating to two d
 
 ### 6. Blockchain Tweets
 An inspection of blockchain tweets, including a focus on account age and trend of NFTs for the year 2021.
+
+### 7. Malenia
+Information on player deaths against Elden Ring's boss Malenia, Blade of Miquella.
+
